@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Template name="TabbedMenu-template" src="project://database/Assets/UI%20Toolkit/Examples/create-a-tabbed-menu-for-runtime/TabbedMenu-template.uxml?fileID=9197481963319205126&amp;guid=fc7449ac779ca9d4a91b959458753b4f&amp;type=3#TabbedMenu-template" />
+    <Style src="project://database/Assets/UI%20Toolkit/Examples/create-a-tabbed-menu-for-runtime/TabbedMenu-style.uss?fileID=7433441132597879392&amp;guid=6ca9929e802a1e04f8307e53199bc98d&amp;type=3#TabbedMenu-style" />
+    <TabbedView />
+    <TabButton focusable="true" name="LondonButton" text="1" target="#LondonTab" />
+    <ui:Instance template="TabbedMenu-template" name="TabbedMenu-template" />
+</ui:UXML>

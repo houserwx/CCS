@@ -1,0 +1,27 @@
+Application Platform: WindowsEditor
+Unity Version: 2021.3.16f1
+Is Application Playing: False
+
+Gameobjects with MCSCharacterManager: 1
+MCSFemale current LOD level: 1
+MCSFemale does NOT have an animation controller
+MCSFemale children:
+	MCSFemale active: True
+	MCSFemale active: True
+	hip active: True
+	MCSFemale_LOD0 active: True SkinnedMeshRender Enabled: True
+		EyeAndLash MCS/URP/EyeAndLash
+		Head_LOD0 MCS/URP/Skin
+		Body_LOD0 MCS/URP/Skin
+	MCSFemale_LOD1 active: True SkinnedMeshRender Enabled: False
+		Body_LOD1 MCS/URP/Skin
+		Head_LOD1 MCS/URP/Skin
+		EyeAndLash MCS/URP/EyeAndLash
+	MCSFemale_LOD2 active: True SkinnedMeshRender Enabled: False
+		Body_LOD2 MCS/URP/Skin
+		Head_LOD2 MCS/URP/Skin
+		EyeAndLash MCS/URP/EyeAndLash
+	MCSFemale_LOD3 active: True SkinnedMeshRender Enabled: False
+		Body_LOD3 MCS/URP/Skin
+		Head_LOD3 MCS/URP/Skin
+		EyeAndLash MCS/URP/EyeAndLash

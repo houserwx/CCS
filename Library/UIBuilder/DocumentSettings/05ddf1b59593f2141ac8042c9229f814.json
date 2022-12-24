@@ -1,0 +1,30 @@
+{
+    "UxmlGuid": "05ddf1b59593f2141ac8042c9229f814",
+    "UxmlPath": "Assets/tabtry.uxml",
+    "CanvasX": 0,
+    "CanvasY": 0,
+    "CanvasWidth": 500,
+    "CanvasHeight": 531,
+    "MatchGameView": false,
+    "ZoomScale": 1.0,
+    "PanOffset": {
+        "x": 96.0,
+        "y": 26.0
+    },
+    "ColorModeBackgroundOpacity": 0.0,
+    "ImageModeCanvasBackgroundOpacity": 1.0,
+    "CameraModeCanvasBackgroundOpacity": 0.36000001430511477,
+    "EnableCanvasBackground": true,
+    "CanvasBackgroundMode": 2,
+    "CanvasBackgroundColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 255.0
+    },
+    "CanvasBackgroundImage": {
+        "instanceID": 0
+    },
+    "CanvasBackgroundImageScaleMode": 1,
+    "CanvasBackgroundCameraName": "MenuCam"
+}

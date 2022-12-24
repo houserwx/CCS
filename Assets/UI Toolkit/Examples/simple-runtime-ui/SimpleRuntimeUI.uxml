@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Examples/simple-runtime-ui/SimpleRuntimeUI.uss?fileID=7433441132597879392&amp;guid=042f8b13a1265a545a7acc7c3571800f&amp;type=3#SimpleRuntimeUI" />
+    <ui:VisualElement class="RootMenu" style="align-items: center; justify-content: flex-end; width: 50%; height: 90%;" />
+</ui:UXML>
